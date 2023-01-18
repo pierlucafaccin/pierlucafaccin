@@ -11,11 +11,11 @@
 <br/>
 <br/>
 
-:green_book: I am a Computer Science graduate from the @ University of Trento (graduated in December 2021).
-:closed_book: Currently I am pursuing a Master's degree in Artificial Intelligence Systems.
-:orange_book: My interests include machine learning, natural language processing, and software development. I am passionate about using technology to solve real-world problems and improve people's lives. 
-:notebook: My educational path is focused on the development and application of AI algorithms in various fields such as finance, innovation, and entrepreneurship, and marketing.
-::notebook_with_decorative_cover: In November 2022, I was part of a winning team in the Industrial AI Challenge, in collaboration with the @ University of Trento and @ HIT, where we developed a supervised learning model for selecting the best semi-finished food product on slicing lines to minimize waste and increase productivity for our designated company @ Pulsar SRL.
+:green_book: I am a Computer Science graduate from the @ University of Trento (graduated in December 2021). \n
+:closed_book: Currently I am pursuing a Master's degree in Artificial Intelligence Systems. \n
+:orange_book: My interests include machine learning, natural language processing, and software development. I am passionate about using technology to solve real-world problems and improve people's lives. \n
+:notebook: My educational path is focused on the development and application of AI algorithms in various fields such as finance, innovation, and entrepreneurship, and marketing. \n
+::notebook_with_decorative_cover: In November 2022, I was part of a winning team in the Industrial AI Challenge, in collaboration with the @ University of Trento and @ HIT, where we developed a supervised learning model for selecting the best semi-finished food product on slicing lines to minimize waste and increase productivity for our designated company @ Pulsar SRL. \n
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 <br/>
 <br/>
