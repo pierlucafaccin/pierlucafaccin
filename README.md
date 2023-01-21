@@ -1,4 +1,3 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 ### Hi there 👋 I am Pierluca Faccin :eyes:
 <a href="https://github.com/pierlucafaccin">
   <img align="left" alt="pierlucafaccin's Github" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png" />
