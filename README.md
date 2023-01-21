@@ -41,7 +41,7 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="150px" height="100px"/>
   </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" width="150px" height="100px"/>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="100px"/>
   </a>
     <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="100px"/>
   </a>
