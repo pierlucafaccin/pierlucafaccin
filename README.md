@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Pierluca Faccin :eyes:
 <a href="https://github.com/pierlucafaccin">
-  <img align="left" alt="pierlucafaccin's Github" width="25px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="left" alt="pierlucafaccin's Github" width="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://instagram.com/pierlucafaccin/">
-  <img align="left" alt="pierlucafaccin's Instagram" width="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="pierlucafaccin's Instagram" width="60px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://facebook.com/pierlucafaccin/">
-  <img align="left" alt="pierlucafaccin's Facebook" width="25px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="left" alt="pierlucafaccin's Facebook" width="60px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <br/>
 <br/>
@@ -29,12 +29,15 @@
 <br/>
 
 <p align="left">
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="60px"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="60px"/>
   </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="pytorch" width="40" height="40"/>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" width="60px"/>
+  </a>
+    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="60px"/>
+  </a>
+    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="60px"/>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="60px"/>
   </a>
 </p>
