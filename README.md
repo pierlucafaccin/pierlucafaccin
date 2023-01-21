@@ -31,8 +31,6 @@
 
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wyjacyv8smw3j3lldg3tdt5sq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 <br/>
 <br/>
 
