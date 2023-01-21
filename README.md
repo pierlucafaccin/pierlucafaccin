@@ -3,7 +3,7 @@
   <img align="left" alt="pierlucafaccin's Github" width="200px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://instagram.com/pierlucafaccin/">
-  <img align="left" alt="pierlucafaccin's Instagram" width="200px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="pierlucafaccin's Instagram" width="300px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://facebook.com/pierlucafaccin/">
   <img align="left" alt="pierlucafaccin's Facebook" width="200px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
