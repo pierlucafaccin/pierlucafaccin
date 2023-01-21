@@ -1,18 +1,18 @@
 ### Hi there 👋 I am Pierluca Faccin :eyes:
 <a href="https://github.com/pierlucafaccin">
-  <img align="center" alt="pierlucafaccin's Github" width="180px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="pierlucafaccin's Github" height="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://instagram.com/pierlucafaccin/">
-  <img align="center" alt="pierlucafaccin's Instagram" width="230px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="center" alt="pierlucafaccin's Instagram" height="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://facebook.com/pierlucafaccin/">
-  <img align="center" alt="pierlucafaccin's Facebook" width="210px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="center" alt="pierlucafaccin's Facebook" height="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://support.apple.com/macos">
-  <img align="center" width="180px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img align="center" height="100px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 <a href="https://www.apple.com">
-  <img align="center" width="130px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img align="center" height="100px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
 <br/>
 <br/>
@@ -37,15 +37,15 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="100px"/>
+  <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="80px"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="100px"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="80px"/>
   </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="100px"/>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="80px"/>
   </a>
-    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="100px"/>
+    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="80px"/>
   </a>
-    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="100px"/>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="100px"/>
+    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="80px"/>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="80px"/>
   </a>
 </p>
