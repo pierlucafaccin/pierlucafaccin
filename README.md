@@ -14,6 +14,18 @@
 <a href="https://www.apple.com">
   <img align="center" height="55px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word">
+  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/it-it/microsoft-365/microsoft-office">
+  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/it-it/microsoft-365/powerpoint">
+  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+</a>
 <br/>
 <br/>
 <br/>
