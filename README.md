@@ -48,16 +48,12 @@
     <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="70px"/>
     <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="70px"/>
   </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img height="70px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" />
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/word">
-  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"><img height="70px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="word"/>
 </a>
-<a href="https://www.microsoft.com/it-it/microsoft-365/microsoft-office">
-  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    <a href="https://www.microsoft.com/it-it/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"><img height="70px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="office" />
 </a>
-<a href="https://www.microsoft.com/it-it/microsoft-365/powerpoint">
-  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+    <a href="https://www.microsoft.com/it-it/microsoft-365/powerpoint" target="_blank" rel="noreferrer"><img height="70px" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="powerpoint" />
 </a>
 </p>
