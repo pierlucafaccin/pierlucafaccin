@@ -1,4 +1,7 @@
 ### Hi there 👋 I am Pierluca Faccin :eyes:
+img {
+  height: 100px; /* impostare l'altezza desiderata */
+}
 <a href="https://github.com/pierlucafaccin">
   <img align="center" alt="pierlucafaccin's Github" width="180px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
