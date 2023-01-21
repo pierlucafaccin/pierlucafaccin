@@ -14,18 +14,6 @@
 <a href="https://www.apple.com">
   <img align="center" height="55px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/word">
-  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-</a>
-<a href="https://www.microsoft.com/it-it/microsoft-365/microsoft-office">
-  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</a>
-<a href="https://www.microsoft.com/it-it/microsoft-365/powerpoint">
-  <img align="center" height="55px" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</a>
 <br/>
 <br/>
 <br/>
@@ -49,15 +37,27 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="80px"/>
+  <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="70px"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="80px"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="70px"/>
   </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="80px"/>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" height="70px"/>
   </a>
-    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="80px"/>
+    <a href="https://cplusplus.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="70px"/>
   </a>
-    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="80px"/>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="80px"/>
+    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="70px"/>
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="70px"/>
   </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/word">
+  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/it-it/microsoft-365/microsoft-office">
+  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/it-it/microsoft-365/powerpoint">
+  <img align="center" height="70px" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+</a>
 </p>
