@@ -1,5 +1,6 @@
-<img src=”https://user-images.githubusercontent.com/52492692/213873484-8c165756-3cb8-4bc0-8caa-72585dfee9cc.png" alt=”my banner”>
-
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/52492692/213873484-8c165756-3cb8-4bc0-8caa-72585dfee9cc.png" alt=”my banner”>
+</p>
 ### Hi there 👋 I am Pierluca Faccin :eyes:
 <a href="https://github.com/pierlucafaccin">
   <img align="left" alt="pierlucafaccin's Github" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png" />
