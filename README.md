@@ -10,6 +10,8 @@
 </a>
 <br/>
 <br/>
+<br/>
+<br/>
 
 :green_book: I am a Computer Science graduate from the @ University of Trento (graduated in December 2021).
 
