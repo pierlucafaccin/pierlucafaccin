@@ -1,15 +1,12 @@
-<p align=”center”>
-<img src=”https://user-images.githubusercontent.com/52492692/213873484-8c165756-3cb8-4bc0-8caa-72585dfee9cc.png" alt=”my banner”>
-</p>
 ### Hi there 👋 I am Pierluca Faccin :eyes:
 <a href="https://github.com/pierlucafaccin">
-  <img align="left" alt="pierlucafaccin's Github" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png" />
+  <img align="left" alt="pierlucafaccin's Github" width="25px" src="[https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" />
 </a>
 <a href="https://instagram.com/pierlucafaccin/">
-  <img align="left" alt="pierlucafaccin's Instagram" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
+  <img align="left" alt="pierlucafaccin's Instagram" width="25px" src="[https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" />
 </a>
 <a href="https://facebook.com/pierlucafaccin/">
-  <img align="left" alt="pierlucafaccin's Facebook" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
+  <img align="left" alt="pierlucafaccin's Facebook" width="25px" src="[https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" />
 </a>
 <br/>
 <br/>
@@ -33,11 +30,11 @@
 
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="pytorch" width="40" height="40"/>
   </a>
 </p>
