@@ -32,7 +32,7 @@
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 
 [![pierlucafaccin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierlucafaccin)](https://github.com/anuraghazra/github-readme-stats)
-
+![pierlucafaccin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true)
 <br/>
 <br/>
 
