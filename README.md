@@ -27,7 +27,7 @@
 
 :notebook: My educational path is focused on the development and application of AI algorithms in various fields such as finance, innovation, and entrepreneurship, and marketing. 
 
-:notebook_with_decorative_cover: In November 2022, I was part of a winning team in the Industrial AI Challenge, in collaboration with the <a href="https://www.unitn.it">University of Trento</a> and <a href="[https://www.unitn.i](https://www.trentinoinnovation.eu)t">Hub Innovation Trentino</a>, where we developed a supervised learning model for selecting the best semi-finished food product on slicing lines to minimize waste and increase productivity for our designated company @ Pulsar SRL. 
+:notebook_with_decorative_cover: In November 2022, I was part of a winning team in the Industrial AI Challenge, in collaboration with the <a href="https://www.unitn.it">University of Trento</a> and <a href="(https://www.trentinoinnovation.eu)">Hub Innovation Trentino</a>, where we developed a supervised learning model for selecting the best semi-finished food product on slicing lines to minimize waste and increase productivity for our designated company @ Pulsar SRL. 
 
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 
