@@ -32,8 +32,8 @@
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark" height=220px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact&theme=dark" height=220px>
+  <img src="https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark" height=180px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact&theme=dark" height=180px>
 </div>
 
 <br/>
