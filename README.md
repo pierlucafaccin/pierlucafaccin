@@ -30,10 +30,11 @@
 :notebook_with_decorative_cover: In November 2022, I was part of a winning team in the Industrial AI Challenge, in collaboration with the @ University of Trento and @ HIT, where we developed a supervised learning model for selecting the best semi-finished food product on slicing lines to minimize waste and increase productivity for our designated company @ Pulsar SRL. 
 
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
+![pierlucafaccin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark)
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark" width="500">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact&theme=dark" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark" height=100px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact&theme=dark" height=100px>
 </div>
 
 <br/>
