@@ -32,6 +32,7 @@
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 
 ![pierlucafaccin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 
