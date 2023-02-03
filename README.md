@@ -33,8 +33,8 @@
 ![pierlucafaccin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark)
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark" height=100px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact&theme=dark" height=100px>
+  <img src="https://github-readme-stats.vercel.app/api?username=pierlucafaccin&show_icons=true&theme=dark" height=200px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucafaccin&layout=compact&theme=dark" height=200px>
 </div>
 
 <br/>
