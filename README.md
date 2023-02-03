@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-:green_book: I am a Computer Science graduate from the @ University of Trento (graduated in December 2021).
+:green_book: I am a Computer Science graduate from the @ <a href="https://www.unitn.it">University of Trento</a> (graduated in December 2021).
 
 :closed_book: Currently I am pursuing a Master's degree in Artificial Intelligence Systems. 
 
