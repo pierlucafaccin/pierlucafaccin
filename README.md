@@ -29,6 +29,8 @@
 
 :notebook_with_decorative_cover: In November 2022, I was part of a winning team in the Industrial AI Challenge, in collaboration with the <a href="https://www.unitn.it">University of Trento</a> and <a href="https://www.trentinoinnovation.eu">Hub Innovation Trentino</a>, where we developed a supervised learning model for selecting the best semi-finished food product on slicing lines to minimize waste and increase productivity for our designated company <a href="https://www.pulsar-industry.it">Pulsar Industry</a>.
 
+:open_book: in May 2024 I started working as a application consultant in <a href="https://www.irimi.it">Irimi</a>.
+
 :blue_book: My GitHub profile showcases some of my projects and experiments in these fields!
 
 <div style="display: flex;">
