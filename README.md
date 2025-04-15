@@ -13,7 +13,7 @@
 ---
 
 🎓 **Computer Engineering graduate** from the [University of Trento](https://www.unitn.it)  
-🎓 **Master's degree in Artificial Intelligence Systems**  
+🎓 **Master's degree** in **Artificial Intelligence Systems**  
 💼 **AI Solution Engineer** at [Euro Informatica SpA](https://www.euroinformatica.net) (since April 2025)
 
 ---
